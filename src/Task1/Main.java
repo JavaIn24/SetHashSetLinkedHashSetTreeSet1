@@ -1,4 +1,5 @@
-package Task1;public class Main {
+package Task1;
+public class Main {
   public static void main(String[] args) {
         List<String> collors1 = new ArrayList<>();
         collors1.add("Black");
