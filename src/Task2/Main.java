@@ -1,4 +1,5 @@
-package Task2;public class Main {
+package Task2;
+public class Main {
   public static void main(String[] args) {
         LinkedHashSet<Integer> numbers = new LinkedHashSet<>();
         numbers.add(7);
